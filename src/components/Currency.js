@@ -41,7 +41,7 @@ const Currency = () => {
         type="button"
         data-bs-toggle="dropdown"
         aria-expanded="false"
-        style={{ backgroundColor: "g#93e399", color: "#fff" }}
+        style={{ backgroundColor: "#93e399", color: "#fff" }}
         onClick={() => setIsOpen(!isOpen)}
       >
         Currency {"("}
